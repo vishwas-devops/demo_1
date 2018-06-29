@@ -97,6 +97,7 @@
     <orderEntry type="library" exported="" name="support-v4-24.0.0-alpha2" level="project" />
     <orderEntry type="library" exported="" name="support-vector-drawable-24.0.0-alpha2" level="project" />
     <orderEntry type="library" exported="" name="support-annotations-24.0.0-alpha2" level="project" />
+    <orderEntry type="library" exported="" name="appcompat-v7-19.0.1" level="project" />
   </component>
   <component name="org.twodividedbyzero.idea.findbugs">
     <option name="_basePreferences">
