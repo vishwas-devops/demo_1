@@ -1,6 +1,5 @@
 apply plugin: 'com.android.application'
-apply plugin: 'findbugs'
-apply plugin: 'pmd'
+
 
 
 android {
